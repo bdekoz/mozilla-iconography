@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 22.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.2" baseProfile="tiny" id="レイヤー_1"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="127.8px" height="135px"
+	 viewBox="0 0 127.8 135" xml:space="preserve">
+<g>
+	<g>
+		<g transform="matrix(1 0 0 -1 63.8799 67.5068)">
+			<radialGradient id="XMLID_3_" cx="-23.6777" cy="760.9639" r="96.8226" gradientUnits="userSpaceOnUse">
+				<stop  offset="0" style="stop-color:#67C5D5"/>
+				<stop  offset="0.1604" style="stop-color:#66C2D3"/>
+				<stop  offset="0.2795" style="stop-color:#62B9CE"/>
+				<stop  offset="0.3852" style="stop-color:#5CA8C6"/>
+				<stop  offset="0.4832" style="stop-color:#5392BA"/>
+				<stop  offset="0.5759" style="stop-color:#4874AA"/>
+				<stop  offset="0.6646" style="stop-color:#3A5097"/>
+				<stop  offset="0.7485" style="stop-color:#2A2781"/>
+				<stop  offset="0.8146" style="stop-color:#1B006D"/>
+				<stop  offset="1" style="stop-color:#596AAD"/>
+			</radialGradient>
+			<path id="XMLID_1_" fill="url(#XMLID_3_)" d="M63.9,790.9c0,34.4-27.9,62.2-62.2,62.2s-62.2-27.9-62.2-62.2
+				c0-34.4,27.9-62.2,62.2-62.2S63.9,756.6,63.9,790.9z"/>
+		</g>
+		<image width="128" height="136" xlink:href="B5E5AEEAE9D9D936.png"  transform="matrix(1 0 0 1 -64 724.013)">
+		</image>
+	</g>
+	<image width="78" height="51" xlink:href="B5E5AEEAE9D9D93A.png"  transform="matrix(1 0 0 1 -38 731.013)">
+	</image>
+</g>
+</svg>
